@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
-int main()
+void main()
 {
 	setlocale(LC_CTYPE, ".UTF8");
 	puts("*********************************************");
